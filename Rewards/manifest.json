@@ -1,6 +1,6 @@
 {
     "name": "Rewards",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "website_url": "https://resurgent.network",
     "description": "Rewards system for the Resurgent Network Valheim Server",
     "dependencies": [
